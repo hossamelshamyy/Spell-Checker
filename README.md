@@ -1,3 +1,3 @@
 # Spell Checker
 
-### Checking spell of a given word using given dictionary using Binary search trees
+### Checking spell of a given word in a dictionary using Binary search trees
